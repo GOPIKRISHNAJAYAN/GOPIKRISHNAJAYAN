@@ -119,7 +119,7 @@ My experience includes **financial analytics, clinical data analysis, predictive
 | Project | Description |
 |------------|----------------|
 | [🌧️ Rainfall-Driven Flood Risk Assessment Framework for Kochi](#) | Analyzed rainfall and climate data for Kochi using statistical and machine learning methods. Applied seasonality analysis and Extreme Value Theory (EVT) to study extreme rainfall patterns and flood vulnerability. |
-| [📈 Stock Price Forecasting of Cipla Ltd. Using LSTM and DeepAR](#) | Forecasted Cipla stock prices using historical market data. Applied LSTM and DeepAR for deep learning and probabilistic forecasting and evaluated models using RMSE, MAE, MAPE and R². |
+| [📈 Stock Price Forecasting of Cipla Ltd. Using LSTM and DeepAR](https://github.com/GOPIKRISHNAJAYAN/Stock-price-forecasting-using-Python-LSTM-and-DeepAR) | Forecasted Cipla stock prices using historical market data. Applied LSTM and DeepAR for deep learning and probabilistic forecasting and evaluated models using RMSE, MAE, MAPE and R². |
 | [💬 NLP-Based Sentiment Analysis on Amazon Product Reviews](#) | Developed an NLP-based sentiment analysis model using TF-IDF and machine learning algorithms including Naive Bayes, Logistic Regression and SVM. |
 
 ---
